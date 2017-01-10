@@ -1,0 +1,19 @@
+{
+  "name": "chat-nodejs-y-socketio",
+  "version": "1.0.0",
+  "description": "creación de un chat en tiempo real con nodejs y socketio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jandro90/Proyecto-chat-con-nodejs-y-socketio.git"
+  },
+  "author": "Alejandro Gomez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jandro90/Proyecto-chat-con-nodejs-y-socketio/issues"
+  },
+  "homepage": "https://github.com/jandro90/Proyecto-chat-con-nodejs-y-socketio#readme"
+}
