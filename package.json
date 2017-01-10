@@ -4,7 +4,7 @@
 	"description": "creación de un chat en tiempo real con nodejs y socketio",
 	"main": "index.js",
 	"scripts": {
-		"start": "nodemon server/index.js",
+		"start": "nodemon servidor/index.js",
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},
 	"repository": {
